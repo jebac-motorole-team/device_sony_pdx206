@@ -53,3 +53,6 @@ PRODUCT_PACKAGES += \
 # Shims
 PRODUCT_PACKAGES += \
     lib-imsvtshim
+
+# VNDK
+PRODUCT_EXTRA_VNDK_VERSIONS := 30
