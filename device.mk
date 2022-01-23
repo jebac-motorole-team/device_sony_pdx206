@@ -38,7 +38,7 @@ PRODUCT_PACKAGES += \
 
 # Device specific overlay
 DEVICE_PACKAGE_OVERLAYS += \
-     $(LOCAL_PATH)/overlay-lineage
+     $(LOCAL_PATH)/overlay
 
 # DTBO
 LOCAL_DTB := $(LOCAL_PATH)/prebuilt/dtb.img
